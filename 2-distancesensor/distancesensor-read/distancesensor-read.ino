@@ -2,7 +2,7 @@
 
 #include "Ultrasonic.h"
 
-Ultrasonic ultrasonic(0); //VCC to pin 0
+Ultrasonic ultrasonic(0); //SIG to pin 4
 
 void setup()
 {
